@@ -20,3 +20,6 @@ Make sure you can run the script manually. Then run `crontab -e` and add the fol
 * * * * * /absolute/path/to/enroll.sh
 ```
 This will run the script once every minute. Enjoy!
+
+### Wait, but is this legal??
+You can read [this issue](https://github.com/Asocia/enroll-itu/issues/1) and decide if it is legal or not :D If you don't think it is legal, please share us why.
