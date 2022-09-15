@@ -5,7 +5,9 @@ url="https://kepler-beta.itu.edu.tr/api/TaslakKontrolAPI/v1/" # use this url whi
 # url="https://kepler-beta.itu.edu.tr/api/ders-kayit/v21/"     # uncomment this line when you are ready
 
 # get this token from course enrollment page as shown in the screenshot and paste it here
-token="Authorization: Bearer eyJhbGciO..." 
+# it should go like this:
+# token="Authorization: Bearer eyJhbGciO..." 
+token="paste your token here" 
 
 # write the crn numbers of the lectures you want to take. crn's should be separated by space.
 crn_list=("20034" "20289") 
